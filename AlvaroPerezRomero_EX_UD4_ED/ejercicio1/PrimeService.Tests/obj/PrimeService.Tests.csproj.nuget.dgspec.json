@@ -1,0 +1,110 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aperrom1709\\Documents\\AlvaroPerezRomero_EX_UD4_ED\\PrimeService.Tests\\PrimeService.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aperrom1709\\Documents\\AlvaroPerezRomero_EX_UD4_ED\\PrimeService.Tests\\PrimeService.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aperrom1709\\Documents\\AlvaroPerezRomero_EX_UD4_ED\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "projectName": "PrimeService.Tests",
+        "projectPath": "C:\\Users\\aperrom1709\\Documents\\AlvaroPerezRomero_EX_UD4_ED\\PrimeService.Tests\\PrimeService.Tests.csproj",
+        "packagesPath": "C:\\Users\\aperrom1709\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aperrom1709\\Documents\\AlvaroPerezRomero_EX_UD4_ED\\PrimeService.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aperrom1709\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\aperrom1709\\Documents\\AlvaroPerezRomero_EX_UD4_ED\\PrimeService\\PrimeService.csproj": {
+                "projectPath": "C:\\Users\\aperrom1709\\Documents\\AlvaroPerezRomero_EX_UD4_ED\\PrimeService\\PrimeService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aperrom1709\\Documents\\AlvaroPerezRomero_EX_UD4_ED\\PrimeService\\PrimeService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aperrom1709\\Documents\\AlvaroPerezRomero_EX_UD4_ED\\PrimeService\\PrimeService.csproj",
+        "projectName": "PrimeService",
+        "projectPath": "C:\\Users\\aperrom1709\\Documents\\AlvaroPerezRomero_EX_UD4_ED\\PrimeService\\PrimeService.csproj",
+        "packagesPath": "C:\\Users\\aperrom1709\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aperrom1709\\Documents\\AlvaroPerezRomero_EX_UD4_ED\\PrimeService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aperrom1709\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
